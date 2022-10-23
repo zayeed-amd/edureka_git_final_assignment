@@ -1,1 +1,6 @@
 Welcome to my git repo
+
+some more changes to this file 
+
+
+changes added from master 
